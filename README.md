@@ -1,0 +1,1 @@
+Esse projeto foi feito utilizando a teclogia "EJS" onde eu pude construir as estruturas da minha aplicação. Além disso, com esse projeto eu posso estabelecer uma conexão com banco de dados relacional SQL.
