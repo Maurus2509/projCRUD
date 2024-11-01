@@ -5,4 +5,6 @@ const connection = new sequelize('crud', 'root', 'adm1234', {
     dialect: 'mysql'
 });
 
+category.sync({ force: false }).then(() => { });
+
 module.exports = connection;
